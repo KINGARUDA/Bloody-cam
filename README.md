@@ -1,4 +1,4 @@
-# 🚨 Bloody Cam: Real-Time Motion Tracking and Smart Deterrence System 🎥
+# 🚨 Bloody Cama: Real-Time Motion Tracking and Smart Deterrence System 🎥
 
 This project implements a smart surveillance prototype that uses **computer vision** to detect and track motion in real-time. It features automated pan-tilt control, face recognition to distinguish owners from intruders, and sends instant alerts via Telegram.
 
